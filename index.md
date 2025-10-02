@@ -1,21 +1,19 @@
-# Thomas Margot  
+---
+title: Accueil
+---
 
-Étudiant ingénieur en électronique et traitement du signal à l’ENSEEIHT Toulouse, alternant au CNES.  
-Passionné par les systèmes RF et radar appliqués au spatial et à l’aéronautique.  
+# Thomas Margot
+
+🎯 Étudiant ingénieur en électronique et traitement du signal à l’ENSEEIHT Toulouse, alternant au CNES.  
 
 ---
 
-## Navigation
-- [Projets](projets.md)  
-- [Réflexion](reflexion.md)  
-- [Carrière](carriere.md)  
-- [CSR](csr.md)  
-- [Mobilité](mobilite.md)  
-- [Contact](contact.md)  
+## 🔗 Menu
+[Projets](projets.md) | [Réflexion](reflexion.md) | [Carrière](carriere.md) | [CSR](csr.md) | [Mobilité](mobilite.md) | [Contact](contact.md)
 
 ---
 
-## Liens rapides
-- [CV PDF](assets/CV_ThomasMargot.pdf)  
-- [LinkedIn](https://linkedin.com/in/tonprofil)  
-- [GitHub](https://github.com/tonprofil)
+## 📄 Liens rapides
+- [Télécharger mon CV](assets/CV_ThomasMargot.pdf)
+- [LinkedIn](https://linkedin.com/in/tonprofil)
+- [GitHub](https://github.com/ThomasMargot)
